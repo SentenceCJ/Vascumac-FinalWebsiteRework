@@ -199,6 +199,15 @@ hr { border-top: 4px solid #CCC; }
 	margin-left: auto;
 }
 
+.tm-img-home-container2 {
+	width: 250px;
+	height: 500px;
+	background: url(../images/congestion\ pelvienne.webp) no-repeat center;
+	background-size: cover;
+	margin-right: 0;
+	margin-left: auto;
+}
+
 @media (max-width: 1600px) {
 	.tm-col-home-l { width: calc(100% - 250px); }
 
