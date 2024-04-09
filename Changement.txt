@@ -1,0 +1,31 @@
+Chirurgie du dialysé
+
+1. Hémodialyse // DONE
+2. Fistule artério-veineuse (FAV)
+3. Pontage
+4. Traitement de complications
+5. Pose de cathéters
+
+artérielles // DONE
+1. Sténose carotidienne
+2. AOMI (artériopathie oblitérante des membres inférieurs)
+3. Maladie anévrismale
+4. Sténose et occlusion des artères rénales et digestives
+5. Ulcère artériel
+
+Veineuses // DONE
+1. Varices des membres inférieurs
+2. Varices pelviennes – syndrome de congestion pelvienne
+3. Syndrome de Cockett et Nutcracker syndrome
+4. Ulcère veineux chronique
+
+Acutualités // DONE
+2. Traitement endoveineux des varices sous anesthésie locale pure 
+3. Salle hybride et traitement endovasculaire
+1. Centre de douleur pelvienne chronique féminine
+
+Ajouter Acutualités sur tout les navbars ( copier index et mettre sur chaque pages) // DONE
+
+enlevez la section rendez vous // DONE
+
+Nom des pages sur la toile en haut 
